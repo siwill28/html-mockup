@@ -1,0 +1,12 @@
+.top-bar {
+  text-align: center;
+}
+
+.top-bar li {
+  display: inline-block;
+  padding: 0px 25px;
+}
+
+.top-bar-container {
+  display: inline-block;
+}
